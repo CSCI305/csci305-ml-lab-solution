@@ -1,0 +1,34 @@
+Isaac Griffith
+CSCI 305
+Spring 2018
+Lab Questions
+=======================
+1. [4,2,5,2,6,10]
+
+2. Simply adds 1 to each value in the list
+
+3. (* base case, when the list is empty it evaluates to an empty list *)
+
+4. (* recursive case, simply adds one to the head of the list and cons with the function applied to the tail of the list *)
+
+5. false
+
+6. tail-recusion
+
+7. { best times, it was the worst of times }
+
+8. Tail recusing functions provide the ability to continuously reuse the same stack and thus provide the same speed and memory performance as typical iterative constructs in other languages.
+
+9. { green eggs and ham }
+
+10. { and macaroni }
+
+11. Your response here
+
+12. Your response here
+
+13. Your response here
+
+14. Your response here
+
+15. Your response here
